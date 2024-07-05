@@ -17,7 +17,7 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Alexandre-Ferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Alexandre-Ferreira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 

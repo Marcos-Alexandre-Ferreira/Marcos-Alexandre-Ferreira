@@ -5,13 +5,13 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Alexandre-Ferreira&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Alexandre-Ferreira&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel-1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel-1&theme=onedak)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=meet-your-main&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=e-commerce&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=e-commerce&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=app-meteorologia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=cartorio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

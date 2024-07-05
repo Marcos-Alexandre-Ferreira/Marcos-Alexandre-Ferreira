@@ -9,7 +9,7 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel-1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

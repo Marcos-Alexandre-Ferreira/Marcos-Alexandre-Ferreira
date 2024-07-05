@@ -12,6 +12,7 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel-1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=meet-your-main&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=e-commerce&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=app-meteorologia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

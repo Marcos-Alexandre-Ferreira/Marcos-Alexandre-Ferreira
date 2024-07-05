@@ -9,11 +9,11 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel-1&theme=onedak)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=meet-your-main&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=e-commerce&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=app-meteorologia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=cartorio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=variavel-1&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=meet-your-main&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=e-commerce&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=app-meteorologia&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=cartorio&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias utilizadas
 
@@ -27,7 +27,7 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 
 ### % De tecnologias utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Alexandre-Ferreira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Alexandre-Ferreira&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contatos

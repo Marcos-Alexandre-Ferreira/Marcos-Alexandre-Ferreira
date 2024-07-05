@@ -5,7 +5,7 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Alexandre-Ferreira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Alexandre-Ferreira&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 

@@ -1,6 +1,6 @@
 ## Olá 👋
 
-##### Sobre o Marcos
+##### Sobre mim
 Sou um apaixonado por inovações, ingressando a carreira no ramo de automação, desenvolvimento e engenharia. Atualmente atuo como Assistente Administrativo em um setor de Engenharia Clínica, contribuindo para a execução das tarefas do cotidiano, promovendo melhorias nos processos já executados e trazendo soluções para problemas e desafios encontrados.
 
 ### Detalhes

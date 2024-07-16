@@ -14,7 +14,7 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=e-commerce&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=app-meteorologia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=cartorio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=portfoolio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Alexandre-Ferreira&repo=portfolio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias utilizadas

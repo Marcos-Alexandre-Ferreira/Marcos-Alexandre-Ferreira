@@ -13,10 +13,6 @@ Sou um apaixonado por inovações, ingressando a carreira no ramo de automação
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-### Tecnologias utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Alexandre-Ferreira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Contatos
 
